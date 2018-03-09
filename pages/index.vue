@@ -9,14 +9,18 @@
         Nuxt.js Test project
       </h2>
       <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green">Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey">GitHub</a>
+        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
+        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
+      </div>
+    </div>
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title is-1">
+          Coding Quotes
+        </h1>
+        <h2 class="subtitle">
+          Like your favorites
+        </h2>
       </div>
     </div>
   </section>
